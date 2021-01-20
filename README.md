@@ -1,4 +1,4 @@
-# Julia - A Telegram Bot Project
+# ySTACK Bot 
 
 > ⭐️ Thanks to everyone who has starred the project, it means a lot !
 
